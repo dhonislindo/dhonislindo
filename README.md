@@ -7,7 +7,7 @@ main ()
 
   int d;
 
-  printf ("insira um valor de 1 a 7:\n");
+  printf ("insira um valor de 1 a 4:\n");
   scanf ("%d", &d);
 
   switch (d)
